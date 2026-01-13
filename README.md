@@ -1,4 +1,4 @@
-# Dispatch Queue
+<h1 align="center">Dispatch Queue</h1>
 
 <p align="center">
   <b>一个现代、高效的 C++ 任务调度库</b>
